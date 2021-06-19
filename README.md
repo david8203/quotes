@@ -1,4 +1,14 @@
 # Quotes
+an application where one is able to down vote a quote or up vote it see the best comment etc..
+# Author 
+David Ndungu 
+## Technologies used 
+* HTML
+* CSS 
+* Typescript
+* Angular 
+* Javascript
+
 * This project was generated with Angular CLI version 12.0.0.
 
 * The project is a Quote application that allows one to:
@@ -8,8 +18,6 @@ Like or Dislike Quotes
 Delete Quotes
 Add Quotes
 See most popular Quotes
-## Author
-David Ndungu
 ## Setup/Installation Requirements
 * Fork this repo
 * Clone this repo
@@ -33,12 +41,6 @@ not available for now
 
 ## Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
-
-## technologies Used
-Angularjs
-css
-html
-typescript
 
 ## Support and contact details
 If you come across any problems you can reach me at: davidndungu8203@gmail.com
